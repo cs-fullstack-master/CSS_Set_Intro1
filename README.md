@@ -17,7 +17,7 @@ Multiple Properties
 Give the p tags a gray background and yellow font color. Make the class "secondParagraph" have a background color of blue.
 ```
 <p class="firstParagraph">
-	Lorem ipsum dolor sit amet, <span>id commodo voluptua gloriatur sed<span>, ex mea posse suscipiantur. Eos id cibo timeam, tamquam inciderint in est. Ne quo illud dictas. Mea ex dicant mucius, eu postea deserunt vis. Eu homero epicuri comprehensam cum.
+	Lorem ipsum dolor sit amet, <span>id commodo voluptua gloriatur sed</span>, ex mea posse suscipiantur. Eos id cibo timeam, tamquam inciderint in est. Ne quo illud dictas. Mea ex dicant mucius, eu postea deserunt vis. Eu homero epicuri comprehensam cum.
 </p>
 
 <p class="secondParagraph">
