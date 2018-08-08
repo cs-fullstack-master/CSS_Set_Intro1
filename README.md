@@ -39,12 +39,12 @@ Give the p tags a gray background and yellow font color. Make the class "secondP
 
 ### Example
 
- Use the HTML above to change the first, third, and fourth colors to pink.
+ Use the HTML above to change the first, third, and fourth classes to pink.
  
  
  ### Example
  
- Underline the span tags and center the third paragraph.
+ Underline the span tags. Next center the third paragraph.
  
  
  
