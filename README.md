@@ -1,6 +1,6 @@
 # CSS_Set_Intro1
 
-### Example
+### Example 11
 
 Put the code below in the body of your HTML file. Create a css file and make the p and h1 tags red.
 ```
@@ -11,7 +11,7 @@ Put the code below in the body of your HTML file. Create a css file and make the
 ```
 
 
-### Example 
+### Example 12
 Multiple Properties
 
 Give the p tags a gray background and yellow font color. Make the class "secondParagraph" have a background color of blue.
@@ -37,17 +37,17 @@ Give the p tags a gray background and yellow font color. Make the class "secondP
 </span></p>
 ```
 
-### Example
+### Example 12b
 
  Use the HTML above to change the first, third, and fourth classes to pink.
  
  
- ### Example
+ ### Example 12c
  
  Underline the span tags. Next center the third paragraph.
  
  
  
- ### Example
+ ### Example 12d
  
  Make each span tag into a block element
